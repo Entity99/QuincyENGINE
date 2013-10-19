@@ -1,0 +1,36 @@
+$ npm -v
+$ mkdir QunicyEngin
+
+$ cd QuincyEngine
+
+
+$ QuincyENGINE.json
+  {
+    "instaNF": "QuincyEngine.json"
+    "version": "0.0.01.0"
+  }
+
+$ grunt test:nodejs
+
+
+$ npm install -g noflo --save
+
+
+$ grunt test:nodejs
+
+$ grunt build:nodejs
+$ npm link
+
+
+$ ./node_modules/.bin/noflo -h
+
+$ npm install noflo-core --save
+
+
+
+$ mkdir graphs
+
+$ ShowContents_Graph.fbp
+
+
+$ grunt test:nodejs
