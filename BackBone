@@ -34,3 +34,6 @@ $ ShowContents_Graph.fbp
 
 
 $ grunt test:nodejs
+$ grunt build:nodejs
+
+
