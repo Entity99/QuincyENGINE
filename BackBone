@@ -30,7 +30,6 @@ $ npm install noflo-core --save
 
 $ mkdir graphs
 
-$ ShowContents_Graph.fbp
 
 
 $ grunt test:nodejs
