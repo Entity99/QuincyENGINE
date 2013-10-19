@@ -25,7 +25,7 @@ $ npm link
 $ ./node_modules/.bin/noflo -h
 
 $ npm install noflo-core --save
-
+$ npm install noflo-filesystem --save
 
 
 $ mkdir graphs
