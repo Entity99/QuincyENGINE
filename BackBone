@@ -4,12 +4,6 @@ $ mkdir QunicyEngin
 $ cd QuincyEngine
 
 
-$ QuincyENGINE.json
-{
-  "instaNF": "QuincyEngine.json"
-  "version": "0.0.01.0"
-}
-
 $ grunt test:nodejs
 
 
