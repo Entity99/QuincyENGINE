@@ -3,6 +3,8 @@ $ mkdir QunicyEngin
 
 $ cd QuincyEngine
 
+$ mkdir package.json
+
 
 $ grunt test:nodejs
 
